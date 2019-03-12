@@ -1,6 +1,7 @@
 # Banana DQN
 This project is an assignment from the Udacity Deep Reinforcement Learning course. [p1_navigation](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation) found [here](https://github.com/udacity/deep-reinforcement-learning#dependencies). The objective is to train a banana collecting agent using a DQN.
 
+![alt text](https://github.com/Komsjer/Banana-DQB/blob/master/images/BananaDqn.gif "Trained agent")
 
 ## Enviroment
 
