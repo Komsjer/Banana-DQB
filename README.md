@@ -25,19 +25,19 @@ A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is
 For the dependancies to this project please follow the instructions from the assignment github [here](https://github.com/udacity/deep-reinforcement-learning#dependencies)
 
 ##### 2.
-To install the unity enviroment you'll need to download the right version for your pc drag it into the project folder and unzip it, not that you'll need to edit the path in the notebook.
+To install the unity environment  you'll need to download the right version for your pc, then drag the zip file into the project folder and unzip it.
 
-Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
-Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
-Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
-Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
+Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)<br/>
+Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)<br/>
+Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)<br/>
+Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)<br/>
 
 ##### 3.
-Launch Jupyter notebook in the project folder
+Launch Jupyter notebook in the project folder.
 
 ## How to use
-When running either of the notebooks make sure you have edited the PATH variable to your version of the unity Banana enviroment
+When running either of the notebooks make sure you have edited the PATH variable to your version of the unity Banana enviroment.
 
-To train a model run the Training notebook
+To train a model run the Training notebook.
 
-To watch an agent perform run the Watching notebook
+To watch an agent perform run the Watching notebook.
